@@ -1,0 +1,17 @@
+python-telegram-bot==20.0
+aiohttp
+Flask==1.1.2
+gunicorn
+Jinja2==3.0.3
+werkzeug==2.0.2
+itsdangerous==2.0.1
+requests==2.26.0
+motor
+pymongo==4.8.0
+beautifulsoup4
+psutil
+pytz
+python-telegram-bot[job_queue]
+tenacity
+nest_asyncio
+
